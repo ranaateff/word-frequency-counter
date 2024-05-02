@@ -60,36 +60,10 @@
               "RelativeDocumentMoniker": "Word Frequency Counter\\src.cpp",
               "ToolTip": "C:\\Users\\iamis\\OneDrive\\Desktop\\word_freq\\Word Frequency Counter\\src.cpp",
               "RelativeToolTip": "Word Frequency Counter\\src.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-21T18:42:46.274Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HistoryOrganizer.cpp",
-              "DocumentMoniker": "C:\\Users\\iamis\\OneDrive\\Desktop\\word_freq\\Word Frequency Counter\\HistoryOrganizer.cpp",
-              "RelativeDocumentMoniker": "Word Frequency Counter\\HistoryOrganizer.cpp",
-              "ToolTip": "C:\\Users\\iamis\\OneDrive\\Desktop\\word_freq\\Word Frequency Counter\\HistoryOrganizer.cpp",
-              "RelativeToolTip": "Word Frequency Counter\\HistoryOrganizer.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-02T20:45:55.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HistoryOrganizer.h",
-              "DocumentMoniker": "C:\\Users\\iamis\\OneDrive\\Desktop\\word_freq\\Word Frequency Counter\\HistoryOrganizer.h",
-              "RelativeDocumentMoniker": "Word Frequency Counter\\HistoryOrganizer.h",
-              "ToolTip": "C:\\Users\\iamis\\OneDrive\\Desktop\\word_freq\\Word Frequency Counter\\HistoryOrganizer.h",
-              "RelativeToolTip": "Word Frequency Counter\\HistoryOrganizer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-02T20:45:43.045Z",
               "EditorCaption": ""
             },
             {
@@ -102,6 +76,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryOrganizer.cpp",
+              "DocumentMoniker": "C:\\Users\\iamis\\OneDrive\\Desktop\\word_freq\\Word Frequency Counter\\HistoryOrganizer.cpp",
+              "RelativeDocumentMoniker": "Word Frequency Counter\\HistoryOrganizer.cpp",
+              "ToolTip": "C:\\Users\\iamis\\OneDrive\\Desktop\\word_freq\\Word Frequency Counter\\HistoryOrganizer.cpp",
+              "RelativeToolTip": "Word Frequency Counter\\HistoryOrganizer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T20:45:55.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoryOrganizer.h",
+              "DocumentMoniker": "C:\\Users\\iamis\\OneDrive\\Desktop\\word_freq\\Word Frequency Counter\\HistoryOrganizer.h",
+              "RelativeDocumentMoniker": "Word Frequency Counter\\HistoryOrganizer.h",
+              "ToolTip": "C:\\Users\\iamis\\OneDrive\\Desktop\\word_freq\\Word Frequency Counter\\HistoryOrganizer.h",
+              "RelativeToolTip": "Word Frequency Counter\\HistoryOrganizer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T20:45:43.045Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "WordSearcher.cpp",
               "DocumentMoniker": "C:\\Users\\iamis\\OneDrive\\Desktop\\word_freq\\Word Frequency Counter\\WordSearcher.cpp",
@@ -110,8 +108,7 @@
               "RelativeToolTip": "Word Frequency Counter\\WordSearcher.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-02T20:19:34.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T20:19:34.942Z"
             },
             {
               "$type": "Document",
@@ -123,8 +120,7 @@
               "RelativeToolTip": "Word Frequency Counter\\WordFilter.cpp",
               "ViewState": "AQIAABkAAAAAAAAAAIAwwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-02T19:37:17.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:37:17.392Z"
             },
             {
               "$type": "Document",
@@ -136,8 +132,7 @@
               "RelativeToolTip": "Word Frequency Counter\\WordFilter.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-02T19:34:15.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:34:15.161Z"
             },
             {
               "$type": "Document",
@@ -149,8 +144,7 @@
               "RelativeToolTip": "Word Frequency Counter\\TextProcessor.cpp",
               "ViewState": "AQIAADsAAAAAMzMzMzMbwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-02T19:21:51.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:21:51.321Z"
             },
             {
               "$type": "Document",
@@ -186,8 +180,7 @@
               "RelativeToolTip": "Word Frequency Counter\\Reader.h",
               "ViewState": "AQIAAAYAAABgZmZmZmYkwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-19T11:43:24.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T11:43:24.134Z"
             }
           ]
         }
