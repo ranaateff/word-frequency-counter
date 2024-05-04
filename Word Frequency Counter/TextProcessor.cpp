@@ -1,4 +1,4 @@
-#include "TextProcessor.h"
+﻿#include "TextProcessor.h"
 using namespace std;
 
 
@@ -55,8 +55,12 @@ int TextProcessor::rankkingbyfreq(string s)
 {
     int counter = 0;
     if (contain(s) == 1) {
-        for (int i = 1; i <= sortedwords.size(); i++)
+        for (int i = 0; i < sortedwords.size(); i++)
         {
+            if (i == 0 && sortedwords[i].first == s)
+                return counter + 1;
+
+
             if (sortedwords[i].first == s)
             {
                 if (sortedwords[i - 1].second != sortedwords[i].second) counter++;
@@ -70,7 +74,8 @@ int TextProcessor::rankkingbyfreq(string s)
                 else
                 {
                     if (sortedwords[i - 1].second == sortedwords[i].second)
-                        continue; else counter++;
+                        continue;
+                    else counter++;
                 }
             }
         }
@@ -78,6 +83,27 @@ int TextProcessor::rankkingbyfreq(string s)
     else
         return -1;
 
+    // اللوب اللى بترجع كلهم عشان لو احتجنها قدام
+
+   /* int counter = 1;
+    for (int i = 0; i < sortedwords.size(); i++)
+    {
+        if (i == 0)
+            cout << counter << " rank ( " << sortedwords[i].first << " => " << sortedwords[i].second << " ) " << endl;
+        else
+        {
+            if(sortedwords[i].second==sortedwords[i-1].second)
+                cout << counter << " rank ( " << sortedwords[i].first << " => " << sortedwords[i].second << " ) " << endl;
+            else
+            {
+                cout << ++counter << " rank ( " << sortedwords[i].first << " => " << sortedwords[i].second << " ) " << endl;
+
+            }
+        }
+    }
+
+
+    */
 
 }
 

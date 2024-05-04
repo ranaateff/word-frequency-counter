@@ -21,7 +21,7 @@ public:
 	bool searchWordFrequency(std::string word, std::map<std::string, int> wordFrequency);
 	void sortedfreq();
 	int rankkingbyitChar(std::string s);
-	int rankkingbyfreq(std::string s);
+	int rankkingbyfreq(string);
 	bool contain(string s);
 	string Tolowercase(string sentence);
 	void Display();
